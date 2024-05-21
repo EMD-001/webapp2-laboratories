@@ -1,3 +1,8 @@
-As a software engineer, delays and issues can be prevented if we follow a strict methodology. We are all professionals so it's a must to follow certain rules that are implemented to prevent such an issue. 
-Proper communication with the team and we should note the changes always to monitor the progress. There are so many types of project management that can be used by the team to monitor the changes or progress and also anticipate the time. 
-In the project, there is a beginning and end and also a goal with the proper discipline and cooperation of the team even if we encounter delays and problems along the way the project will be done on time. 
+
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+Create a file named 01_case-study.txt and push your work to your public GitHub repository named webapp2-laboratories. The date of submission is May 21, 2024, until 11:59 PM.
+
+
